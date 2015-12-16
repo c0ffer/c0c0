@@ -1,0 +1,11 @@
+[Protocol]
+exec=c0fferCoin-qt '%u'
+protocol=c0fferCoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

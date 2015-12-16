@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=c0fferCoin
+Comment=c0fferCoin P2P Cryptocurrency
+Comment[fr]=c0fferCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=c0fferCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/c0fferCoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/c0fferCoin;
+Categories=Office;

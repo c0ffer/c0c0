@@ -1,0 +1,2 @@
+debian/bin/c0fferCoind usr/bin
+src/c0fferCoind usr/lib/c0fferCoin

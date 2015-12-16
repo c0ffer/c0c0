@@ -1,0 +1,9 @@
+Building c0fferCoin
+
+See doc/readme-qt.rst for instructions on building c0fferCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of c0fferCoin.
+
+See doc/build-*.txt for instructions on building c0fferCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of c0fferCoin.
